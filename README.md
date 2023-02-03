@@ -9,35 +9,35 @@ the programming abilities of this developer
 #LISTA DOS CANDIDATOS
 
 Deputado Estadual:
--10369 - RODRIGUES DE OLIVEIRA          | partido: REPUBLICANOS
--33444 - ADRIANO BARBOSA GOMES DA SILVA | partido: PMB
--22222 - ALCIDES FERNANDES DA SILVA     | partido: PL
--12789 - ALESSANDRA AIRES SABINO VIEIRA | partido: PDT
--13777 - ANTONIO VALDENIZO DA COSTA     | partido: PT
+- 10369 - RODRIGUES DE OLIVEIRA___________ partido: REPUBLICANOS
+- 33444 - ADRIANO BARBOSA GOMES DA SILVA__ partido: PMB
+- 22222 - ALCIDES FERNANDES DA SILVA______ partido: PL
+- 12789 - ALESSANDRA AIRES SABINO VIEIRA)_ partido: PDT
+- 13777 - ANTONIO VALDENIZO DA COSTA______ partido: PT
 
 Deputado Federal:
--1516 - ABRAÃO LUCAS       | partido: MDB
-1022 - ADAIL CARNEIRO     | partido: REPUBLICANOS
-5013 - ADELITA MONTEIRO   | partido: PSOL
-2222 - ANDRÉ FERNANDES    | partido: PDT
-1321 - CHRISTIANNE COELHO | partido: PT
+- 1516 - ABRAÃO LUCAS_______ partido: MDB
+- 1022 - ADAIL CARNEIRO_____ partido: REPUBLICANOS
+- 5013 - ADELITA MONTEIRO___ partido: PSOL
+- 2222 - ANDRÉ FERNANDES____ partido: PDT
+- 1321 - CHRISTIANNE COELHO_ partido: PT
 
 Senador:
-131 - CAMILO SANTANA | partido: PT
-160 - CARLOS SILVA   | partido: PSTU
-700 - KAMILA CARDOSO | partido: AVANTE
-555 - ÉRIKA AMORIM   | partido: PSD
+- 131 - CAMILO SANTANA_ partido: PT
+- 160 - CARLOS SILVA___ partido: PSTU
+- 700 - KAMILA CARDOSO_ partido: AVANTE
+- 555 - ÉRIKA AMORIM___ partido: PSD
 
 Governador:
-44 - CAPITÃO WAGNER    | partido: UNIÃO BRASIL
-21 - CHICO MALTA       | partido: PCB
-13 - ELMANO DE FREITAS | partido: PT
-12 - ROBERTO CLÁUDIO   | partido: PSD
-80 - SERLEY LEAL       | partido: UP
+- 44 - CAPITÃO WAGNER____ partido: UNIÃO BRASIL
+- 21 - CHICO MALTA_______ partido: PCB
+- 13 - ELMANO DE FREITAS_ partido: PT
+- 12 - ROBERTO CLÁUDIO___ partido: PSD
+- 80 - SERLEY LEAL_______ partido: UP
 
 Presidente:
-22 - JAIR BOLSONARO   | partido: PL
-13 - LULA             | partido: PT
-44 - SORAYA THRONICKE | partido: UNIÃO
-14 - PADRE KELMON     |  partido: PTB
-12 - CIRO GOMES       | partido: PDT
+- 22 - JAIR BOLSONARO___ partido: PL
+- 13 - LULA_____________ partido: PT
+- 44 - SORAYA THRONICKE_ partido: UNIÃO
+- 14 - PADRE KELMON_____ partido: PTB
+- 12 - CIRO GOMES_______ partido: PDT
