@@ -9,8 +9,7 @@ the programming abilities of this developer
 #LISTA DOS CANDIDATOS
 
 Deputado Estadual:
-- 10369 - RODRIGUES DE OLIVEIRA
-partido: REPUBLICANOS
+- 10369 - RODRIGUES DE OLIVEIRA<br>partido: REPUBLICANOS
   
 - 33444 - ADRIANO BARBOSA GOMES DA SILVA
   partido: PMB
